@@ -437,7 +437,7 @@ const el = document.getElementById('gridscan');
 if (el){
   initGridScan(el, {
     linesColor: '#3a2a4a',
-    scanColor: '#d623c5',
+    scanColor: '#fe00ff',
     gridScale: 0.08,
     lineThickness: 1.2,
     lineJitter: 0.08,
